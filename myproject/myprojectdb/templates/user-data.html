@@ -1,0 +1,11 @@
+
+{% load static %}
+<html>
+    <body>
+        <h3>username:{{data.username}}</h3>
+        <h3>status of your for pass:{{data.status}}</h3>
+        {% if data.status == 'not-requested' %}
+        <a href="change"><button>Request for pass</button></a>
+        {% endif %}
+    </body>
+</html>

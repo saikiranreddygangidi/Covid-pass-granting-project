@@ -1,0 +1,9 @@
+2020-07-01 13:59:26,340 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myprojectdb\views.py changed, reloading.
+2020-07-01 13:59:27,775 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-01 13:59:45,207 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myprojectdb\views.py changed, reloading.
+2020-07-01 13:59:46,731 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-01 14:00:20,700 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myprojectdb\views.py changed, reloading.
+2020-07-01 14:00:22,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-01 14:02:10,001 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myprojectdb\views.py changed, reloading.
+2020-07-01 14:02:11,706 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-01 14:06:38,097 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myproject\settings.py changed, reloading.

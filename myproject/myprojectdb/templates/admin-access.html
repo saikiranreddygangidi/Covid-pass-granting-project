@@ -1,0 +1,18 @@
+{% load static %}
+<html>
+    <body><table style="border: 1px solid black;">
+        {% for a in data %}
+            <tr >
+                <td style="border: 1px solid black;">{{a.username}}</td>
+                <td style="border: 1px solid black;">{{a.status}}</td>
+                {% if a.status == 'requested'  %}
+                <td style="border: 1px solid black;"><a href="grant_request/{{a.username}}">Grant</a></td>
+                {% endif %}
+                {% if a.status == 'granted' %}
+                <td style="border: 1px solid black;"><a >Granted</a></td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+    </table>
+    </body>
+</html>

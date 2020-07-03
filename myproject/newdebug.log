@@ -1,0 +1,5 @@
+2020-07-01 13:48:31,030 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-01 13:48:45,762 django.request WARNING  Not Found: /{%static 'assets/js/main.js
+2020-07-01 13:48:45,845 django.request WARNING  Not Found: /{%static 'assets/js/main.js
+2020-07-01 13:48:53,855 myprojectdb.views ERROR    logined user is:sai
+2020-07-01 13:50:00,886 django.utils.autoreload INFO     C:\Users\Anirudh\Desktop\test\myproject\myproject\settings.py changed, reloading.
